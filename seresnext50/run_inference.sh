@@ -1,0 +1,2 @@
+python extract_raw_image.py
+python extract_test_attention_maps.py
